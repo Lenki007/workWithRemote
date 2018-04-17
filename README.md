@@ -5,4 +5,6 @@
 - ein paar commits
 - push
 - fetch
--merge
+- merge
+- pull
+
